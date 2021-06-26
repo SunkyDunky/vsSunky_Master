@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sunky_corrupted.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SunkyEvil_DOWN0000" x="0" y="0" width="727" height="704" frameX="0" frameY="-11" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0001" x="727" y="0" width="726" height="704" frameX="0" frameY="-11" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0002" x="1453" y="0" width="734" height="715" frameX="-4" frameY="0" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0003" x="2187" y="0" width="732" height="715" frameX="-4" frameY="0" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0004" x="2919" y="0" width="731" height="714" frameX="-4" frameY="-1" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0005" x="1453" y="0" width="734" height="715" frameX="-4" frameY="0" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0006" x="2187" y="0" width="732" height="715" frameX="-4" frameY="0" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0007" x="2919" y="0" width="731" height="714" frameX="-4" frameY="-1" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0008" x="1453" y="0" width="734" height="715" frameX="-4" frameY="0" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0009" x="2187" y="0" width="732" height="715" frameX="-4" frameY="0" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0010" x="2919" y="0" width="731" height="714" frameX="-4" frameY="-1" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0011" x="1453" y="0" width="734" height="715" frameX="-4" frameY="0" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0012" x="2187" y="0" width="732" height="715" frameX="-4" frameY="0" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0013" x="2919" y="0" width="731" height="714" frameX="-4" frameY="-1" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_DOWN0014" x="1453" y="0" width="734" height="715" frameX="-4" frameY="0" frameWidth="738" frameHeight="715"/>
+	<SubTexture name="SunkyEvil_Idle0000" x="0" y="715" width="502" height="779" frameX="0" frameY="-10" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0001" x="0" y="715" width="502" height="779" frameX="0" frameY="-10" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0002" x="502" y="715" width="502" height="784" frameX="-8" frameY="-5" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0003" x="502" y="715" width="502" height="784" frameX="-8" frameY="-5" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0004" x="1004" y="715" width="502" height="786" frameX="-10" frameY="-3" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0005" x="1004" y="715" width="502" height="786" frameX="-10" frameY="-3" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0006" x="1506" y="715" width="501" height="788" frameX="-12" frameY="-1" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0007" x="1506" y="715" width="501" height="788" frameX="-12" frameY="-1" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0008" x="2007" y="715" width="501" height="789" frameX="-13" frameY="0" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0009" x="2007" y="715" width="501" height="789" frameX="-13" frameY="0" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0010" x="2508" y="715" width="501" height="789" frameX="-13" frameY="0" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0011" x="2508" y="715" width="501" height="789" frameX="-13" frameY="0" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0012" x="2508" y="715" width="501" height="789" frameX="-13" frameY="0" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0013" x="2508" y="715" width="501" height="789" frameX="-13" frameY="0" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_Idle0014" x="2508" y="715" width="501" height="789" frameX="-13" frameY="0" frameWidth="514" frameHeight="789"/>
+	<SubTexture name="SunkyEvil_LEFT0000" x="3009" y="715" width="501" height="789"/>
+	<SubTexture name="SunkyEvil_LEFT0001" x="3009" y="715" width="501" height="789"/>
+	<SubTexture name="SunkyEvil_LEFT0002" x="3009" y="715" width="501" height="789"/>
+	<SubTexture name="SunkyEvil_LEFT0003" x="3009" y="715" width="501" height="789"/>
+	<SubTexture name="SunkyEvil_LEFT0004" x="3009" y="715" width="501" height="789"/>
+	<SubTexture name="SunkyEvil_RIGHT0000" x="0" y="1504" width="1042" height="820" frameX="-1" frameY="-17" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0001" x="0" y="1504" width="1042" height="820" frameX="-1" frameY="-17" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0002" x="1042" y="1504" width="1030" height="837" frameX="0" frameY="0" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0003" x="1042" y="1504" width="1030" height="837" frameX="0" frameY="0" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0004" x="1042" y="1504" width="1030" height="837" frameX="0" frameY="0" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0005" x="1042" y="1504" width="1030" height="837" frameX="0" frameY="0" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0006" x="1042" y="1504" width="1030" height="837" frameX="0" frameY="0" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0007" x="1042" y="1504" width="1030" height="837" frameX="0" frameY="0" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0008" x="1042" y="1504" width="1030" height="837" frameX="0" frameY="0" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0009" x="1042" y="1504" width="1030" height="837" frameX="0" frameY="0" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0010" x="1042" y="1504" width="1030" height="837" frameX="0" frameY="0" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0011" x="1042" y="1504" width="1030" height="837" frameX="0" frameY="0" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0012" x="1042" y="1504" width="1030" height="837" frameX="0" frameY="0" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0013" x="1042" y="1504" width="1030" height="837" frameX="0" frameY="0" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_RIGHT0014" x="1042" y="1504" width="1030" height="837" frameX="0" frameY="0" frameWidth="1043" frameHeight="837"/>
+	<SubTexture name="SunkyEvil_UP0000" x="2072" y="1504" width="689" height="1330"/>
+	<SubTexture name="SunkyEvil_UP0001" x="2072" y="1504" width="689" height="1330"/>
+	<SubTexture name="SunkyEvil_UP0002" x="2761" y="1504" width="677" height="1285" frameX="-12" frameY="-45" frameWidth="689" frameHeight="1330"/>
+	<SubTexture name="SunkyEvil_UP0003" x="2761" y="1504" width="677" height="1285" frameX="-12" frameY="-45" frameWidth="689" frameHeight="1330"/>
+	<SubTexture name="SunkyEvil_UP0004" x="2761" y="1504" width="677" height="1285" frameX="-12" frameY="-45" frameWidth="689" frameHeight="1330"/>
+	<SubTexture name="SunkyEvil_UP0005" x="2761" y="1504" width="677" height="1285" frameX="-12" frameY="-45" frameWidth="689" frameHeight="1330"/>
+	<SubTexture name="SunkyEvil_UP0006" x="2761" y="1504" width="677" height="1285" frameX="-12" frameY="-45" frameWidth="689" frameHeight="1330"/>
+	<SubTexture name="SunkyEvil_UP0007" x="2761" y="1504" width="677" height="1285" frameX="-12" frameY="-45" frameWidth="689" frameHeight="1330"/>
+	<SubTexture name="SunkyEvil_UP0008" x="2761" y="1504" width="677" height="1285" frameX="-12" frameY="-45" frameWidth="689" frameHeight="1330"/>
+	<SubTexture name="SunkyEvil_UP0009" x="2761" y="1504" width="677" height="1285" frameX="-12" frameY="-45" frameWidth="689" frameHeight="1330"/>
+	<SubTexture name="SunkyEvil_UP0010" x="2761" y="1504" width="677" height="1285" frameX="-12" frameY="-45" frameWidth="689" frameHeight="1330"/>
+	<SubTexture name="SunkyEvil_UP0011" x="2761" y="1504" width="677" height="1285" frameX="-12" frameY="-45" frameWidth="689" frameHeight="1330"/>
+	<SubTexture name="SunkyEvil_UP0012" x="2761" y="1504" width="677" height="1285" frameX="-12" frameY="-45" frameWidth="689" frameHeight="1330"/>
+	<SubTexture name="SunkyEvil_UP0013" x="2761" y="1504" width="677" height="1285" frameX="-12" frameY="-45" frameWidth="689" frameHeight="1330"/>
+	<SubTexture name="SunkyEvil_UP0014" x="2761" y="1504" width="677" height="1285" frameX="-12" frameY="-45" frameWidth="689" frameHeight="1330"/>
+</TextureAtlas>

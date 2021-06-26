@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NeonCharBP.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="background Characters Neon0000" x="0" y="0" width="2056" height="1187" frameX="0" frameY="-16" frameWidth="2058" frameHeight="1203"/>
+	<SubTexture name="background Characters Neon0001" x="0" y="0" width="2056" height="1187" frameX="0" frameY="-16" frameWidth="2058" frameHeight="1203"/>
+	<SubTexture name="background Characters Neon0002" x="0" y="1187" width="2056" height="1189" frameX="0" frameY="-14" frameWidth="2058" frameHeight="1203"/>
+	<SubTexture name="background Characters Neon0003" x="0" y="1187" width="2056" height="1189" frameX="0" frameY="-14" frameWidth="2058" frameHeight="1203"/>
+	<SubTexture name="background Characters Neon0004" x="0" y="2376" width="2058" height="1203"/>
+	<SubTexture name="background Characters Neon0005" x="0" y="2376" width="2058" height="1203"/>
+	<SubTexture name="background Characters Neon0006" x="0" y="2376" width="2058" height="1203"/>
+	<SubTexture name="background Characters Neon0007" x="0" y="2376" width="2058" height="1203"/>
+	<SubTexture name="background Characters Neon0008" x="0" y="2376" width="2058" height="1203"/>
+	<SubTexture name="background Characters Neon0009" x="0" y="2376" width="2058" height="1203"/>
+	<SubTexture name="background Characters Neon0010" x="0" y="2376" width="2058" height="1203"/>
+	<SubTexture name="background Characters Neon0011" x="0" y="2376" width="2058" height="1203"/>
+	<SubTexture name="background Characters Neon0012" x="0" y="2376" width="2058" height="1203"/>
+	<SubTexture name="background Characters Neon0013" x="0" y="2376" width="2058" height="1203"/>
+</TextureAtlas>

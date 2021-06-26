@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_SHOCK.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue SHOCK0000" x="0" y="0" width="202" height="198"/>
+	<SubTexture name="blue SHOCK0001" x="202" y="0" width="202" height="198"/>
+	<SubTexture name="blue SHOCK0002" x="404" y="0" width="202" height="198"/>
+	<SubTexture name="blue SHOCK0003" x="606" y="0" width="202" height="198"/>
+	<SubTexture name="blue SHOCK0004" x="202" y="0" width="202" height="198"/>
+	<SubTexture name="blue SHOCK0005" x="202" y="0" width="202" height="198"/>
+	<SubTexture name="blue SHOCK0006" x="808" y="0" width="202" height="198"/>
+	<SubTexture name="green SHOCK0000" x="0" y="198" width="202" height="198"/>
+	<SubTexture name="green SHOCK0001" x="202" y="198" width="202" height="198"/>
+	<SubTexture name="green SHOCK0002" x="404" y="198" width="202" height="198"/>
+	<SubTexture name="green SHOCK0003" x="606" y="198" width="202" height="198"/>
+	<SubTexture name="green SHOCK0004" x="202" y="198" width="202" height="198"/>
+	<SubTexture name="green SHOCK0005" x="202" y="198" width="202" height="198"/>
+	<SubTexture name="green SHOCK0006" x="808" y="198" width="202" height="198"/>
+	<SubTexture name="purple SHOCK0000" x="0" y="396" width="198" height="202" frameX="0" frameY="0" frameWidth="198" frameHeight="205"/>
+	<SubTexture name="purple SHOCK0001" x="198" y="396" width="198" height="202" frameX="0" frameY="0" frameWidth="198" frameHeight="205"/>
+	<SubTexture name="purple SHOCK0002" x="396" y="396" width="198" height="205"/>
+	<SubTexture name="purple SHOCK0003" x="594" y="396" width="198" height="202" frameX="0" frameY="0" frameWidth="198" frameHeight="205"/>
+	<SubTexture name="purple SHOCK0004" x="198" y="396" width="198" height="202" frameX="0" frameY="0" frameWidth="198" frameHeight="205"/>
+	<SubTexture name="purple SHOCK0005" x="198" y="396" width="198" height="202" frameX="0" frameY="0" frameWidth="198" frameHeight="205"/>
+	<SubTexture name="purple SHOCK0006" x="792" y="396" width="198" height="202" frameX="0" frameY="0" frameWidth="198" frameHeight="205"/>
+	<SubTexture name="red SHOCK0000" x="0" y="601" width="198" height="202"/>
+	<SubTexture name="red SHOCK0001" x="198" y="601" width="198" height="202"/>
+	<SubTexture name="red SHOCK0002" x="396" y="601" width="198" height="202"/>
+	<SubTexture name="red SHOCK0003" x="594" y="601" width="198" height="202"/>
+	<SubTexture name="red SHOCK0004" x="198" y="601" width="198" height="202"/>
+	<SubTexture name="red SHOCK0005" x="198" y="601" width="198" height="202"/>
+	<SubTexture name="red SHOCK0006" x="792" y="601" width="198" height="202"/>
+</TextureAtlas>

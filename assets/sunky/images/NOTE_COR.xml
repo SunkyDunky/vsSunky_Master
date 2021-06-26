@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_COR.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue COR0000" x="0" y="0" width="212" height="208"/>
+	<SubTexture name="blue COR0001" x="212" y="0" width="212" height="208"/>
+	<SubTexture name="blue COR0002" x="424" y="0" width="212" height="208"/>
+	<SubTexture name="blue COR0003" x="636" y="0" width="212" height="208"/>
+	<SubTexture name="blue COR0004" x="212" y="0" width="212" height="208"/>
+	<SubTexture name="blue COR0005" x="212" y="0" width="212" height="208"/>
+	<SubTexture name="blue COR0006" x="848" y="0" width="212" height="208"/>
+	<SubTexture name="green COR0000" x="1060" y="0" width="212" height="208"/>
+	<SubTexture name="green COR0001" x="1272" y="0" width="212" height="208"/>
+	<SubTexture name="green COR0002" x="1484" y="0" width="212" height="208"/>
+	<SubTexture name="green COR0003" x="1696" y="0" width="212" height="208"/>
+	<SubTexture name="green COR0004" x="1272" y="0" width="212" height="208"/>
+	<SubTexture name="green COR0005" x="1272" y="0" width="212" height="208"/>
+	<SubTexture name="green COR0006" x="0" y="208" width="212" height="208"/>
+	<SubTexture name="purple COR0000" x="212" y="208" width="208" height="212"/>
+	<SubTexture name="purple COR0001" x="420" y="208" width="208" height="212"/>
+	<SubTexture name="purple COR0002" x="628" y="208" width="208" height="212"/>
+	<SubTexture name="purple COR0003" x="836" y="208" width="208" height="212"/>
+	<SubTexture name="purple COR0004" x="420" y="208" width="208" height="212"/>
+	<SubTexture name="purple COR0005" x="420" y="208" width="208" height="212"/>
+	<SubTexture name="purple COR0006" x="1044" y="208" width="208" height="212"/>
+	<SubTexture name="red COR0000" x="1252" y="208" width="208" height="212"/>
+	<SubTexture name="red COR0001" x="1460" y="208" width="208" height="212"/>
+	<SubTexture name="red COR0002" x="1668" y="208" width="208" height="212"/>
+	<SubTexture name="red COR0003" x="0" y="420" width="208" height="212"/>
+	<SubTexture name="red COR0004" x="1460" y="208" width="208" height="212"/>
+	<SubTexture name="red COR0005" x="1460" y="208" width="208" height="212"/>
+	<SubTexture name="red COR0006" x="208" y="420" width="208" height="212"/>
+</TextureAtlas>
