@@ -34,6 +34,12 @@ class GameOverSubstate extends MusicBeatSubstate
 			case 'schoolEvil':
 				stageSuffix = '-pixel';
 				daBf = 'bf-pixel-dead';
+			case 'NeonCity':
+				daBf = 'bfNEON';
+			case 'SunkyWORLD':
+				daBf = 'bfHD';
+			case 'SunkyEVIL':
+				daBf = 'bfRED';
 			default:
 				daBf = 'bf';
 		}
@@ -114,14 +120,6 @@ class GameOverSubstate extends MusicBeatSubstate
 			FlxG.camera.follow(camFollow, LOCKON, camLerp);
 			camFollow.x = FlxMath.lerp(camFollow.x, bf.getGraphicMidpoint().x, (camLerp * _variables.cameraSpeed)/(_variables.fps/60));
 			camFollow.y = FlxMath.lerp(camFollow.y, bf.getGraphicMidpoint().y, (camLerp * _variables.cameraSpeed)/(_variables.fps/60));
-		}
-
-		if (bf.animation.curAnim.name == 'firstDeath' && bf.animation.curAnim.curFrame >= 16)
-			shake += 0.00007;
-
-		if ((bf.animation.curAnim.name == 'firstDeath' && bf.animation.curAnim.curFrame >= 16) || (bf.animation.curAnim.name != 'firstDeath' && bf.animation.curAnim.name != 'deathConfirm') )
-		{
-			FlxG.camera.shake(shake, 0.05);
 		}
 
 		if (bf.animation.curAnim.name == 'firstDeath' && bf.animation.curAnim.finished)

@@ -371,7 +371,7 @@ class PlayState extends MusicBeatState
 				curStage = "NeonCity";
 
 				var skybg:FlxSprite = new FlxSprite (-964.95, -883.15);
-				skybg.loadGraphic(Paths.image("Neon_City/SkyNEON", 'sunky'));
+				skybg.loadGraphic(Paths.image("Neon_City_BP/SkyBP", 'sunky'));
 				add(skybg);
 				skybg.active = false;
 				skybg.updateHitbox();
@@ -379,23 +379,15 @@ class PlayState extends MusicBeatState
 				skybg.scrollFactor.set(0.8, 0.8);
 
 				var skyneon:FlxSprite = new FlxSprite (-964.95, -883.15);
-				skyneon.loadGraphic(Paths.image("Neon_City/BGBuildings", 'sunky'));
+				skyneon.loadGraphic(Paths.image("Neon_City_BP/BGBuildingsBP", 'sunky'));
 				add(skyneon);
 				skyneon.active = false;
 				skyneon.updateHitbox();
 				skyneon.antialiasing = true;
 				skyneon.scrollFactor.set(0.8, 0.8);
 
-				var neonlightsblue:FlxSprite = new FlxSprite (-764.95, -863.15);
-				neonlightsblue.loadGraphic(Paths.image("Neon_City/NeonBlue",'sunky'));
-				add(neonlightsblue);
-				neonlightsblue.active = false;
-				neonlightsblue.updateHitbox();
-				neonlightsblue.antialiasing = true;
-				neonlightsblue.scrollFactor.set(0.8, 0.8);
-
 				neonupperBoppers = new FlxSprite(410, -270);
-				neonupperBoppers.frames = Paths.getSparrowAtlas('Neon_City/NeonTop','sunky');
+				neonupperBoppers.frames = Paths.getSparrowAtlas('Neon_City_BP/NeonBGTopBP','sunky');
 				neonupperBoppers.animation.addByPrefix('bop', "Top0", 24, false);
 				neonupperBoppers.antialiasing = true;
 				neonupperBoppers.setGraphicSize(Std.int(neonupperBoppers.width * 1));
@@ -405,37 +397,38 @@ class PlayState extends MusicBeatState
 					neonupperBoppers.visible = false;
 
 				var buildingsmid:FlxSprite = new FlxSprite (-864.95, -663.15);
-				buildingsmid.loadGraphic(Paths.image("Neon_City/building_mid",'sunky'));
+				buildingsmid.loadGraphic(Paths.image("Neon_City_BP/building_middle_BP",'sunky'));
 				buildingsmid.active = false;
 				buildingsmid.updateHitbox();
 				buildingsmid.antialiasing = true;
 				add(buildingsmid);
 
 				var buildingsneon:FlxSprite = new FlxSprite (-864.95, -863.15);
-				buildingsneon.loadGraphic(Paths.image("Neon_City/BuildingsNeon",'sunky'));
+				buildingsneon.loadGraphic(Paths.image("Neon_City_BP/BuildingsBP",'sunky'));
 				buildingsneon.active = false;
 				buildingsneon.updateHitbox();
 				buildingsneon.antialiasing = true;
 				add(buildingsneon);
 
-				defaultCamZoom = 0.55;
+				defaultCamZoom = 0.6;
 				
 				var neonfloor:FlxSprite = new FlxSprite(-894.95, -883.15);
-				neonfloor.loadGraphic(Paths.image("Neon_City/BgFloor",'sunky'));
+				neonfloor.loadGraphic(Paths.image("Neon_City_BP/FloorBP",'sunky'));
 				add(neonfloor);
 				neonfloor.active = false;
 				neonfloor.updateHitbox();
 				neonfloor.antialiasing = true;
 
-				neonbottomBoppers = new FlxSprite(-180, -230);
+				neonbottomBoppers = new FlxSprite(-80, -130);
 				neonbottomBoppers.frames = Paths.getSparrowAtlas('Neon_City/NeonCharNONEON','sunky');
 				neonbottomBoppers.animation.addByPrefix('bop', 'background Characters Neon0', 24, false);
 				neonbottomBoppers.antialiasing = true;
-				neonbottomBoppers.setGraphicSize(Std.int(neonbottomBoppers.width * 0.89));
+				neonbottomBoppers.setGraphicSize(Std.int(neonbottomBoppers.width * 0.8));
 				neonbottomBoppers.updateHitbox();
 				add(neonbottomBoppers);
 				if (_modifiers.BrightnessSwitch && _modifiers.Brightness <= -45)
 					neonbottomBoppers.visible = false;
+				
 
 			}
 
@@ -445,23 +438,29 @@ class PlayState extends MusicBeatState
 
 				curStage = 'SunkyWORLD';
 				
-				var bg:FlxSprite = new FlxSprite(-64.95, -443.15);
+				var bg:FlxSprite = new FlxSprite(-1395, -1383.15);
 				bg.loadGraphic(Paths.image("SpaceWorld/space_world",'sunky'));
 				add(bg);
 				bg.active = false;
 				bg.updateHitbox();
 				bg.antialiasing = true;
 				bg.scrollFactor.set(0.8, 0.8);
-				bg.setGraphicSize(Std.int(bg.width * 2));
+				bg.setGraphicSize(Std.int(bg.width * 0.69));
 
-				var floatingislandFront:FlxSprite = new FlxSprite (300, -343);
+				var floatingislandFront:FlxSprite = new FlxSprite (-1330, -643);
 				floatingislandFront.loadGraphic(Paths.image('SpaceWorld/BG_1','sunky'));
 				add(floatingislandFront);
 				floatingislandFront.active = false;
 				floatingislandFront.updateHitbox();
 				floatingislandFront.antialiasing = true;
 				floatingislandFront.scrollFactor.set(0.8, 0.8);
-				floatingislandFront.setGraphicSize(Std.int(floatingislandFront.width * 2));
+
+				FlxTween.tween(floatingislandFront, {x: -1330, y: -513 }, 2,  {
+                    ease: FlxEase.smootherStepInOut,
+                    type: FlxTweenType.PINGPONG,
+                    startDelay:2,
+                    loopDelay:0.3,
+				});
 
 				var bgsquare:FlxSprite = new FlxSprite(64.95, -43.15);
 				bgsquare.loadGraphic(Paths.image("SpaceWorld/square",'sunky'));
@@ -483,6 +482,8 @@ class PlayState extends MusicBeatState
 				bgX.loadGraphic(Paths.image("SpaceWorld/X",'sunky'));
 				add(bgX);
 				bgX.active = false;
+				bgX.blend = "add";
+				bgX.visible = false;
 				bgX.updateHitbox();
 				bgX.antialiasing = true;
 				bgX.scrollFactor.set(0.8, 0.8);
@@ -524,15 +525,32 @@ class PlayState extends MusicBeatState
 					loopDelay:2,
 				});
 
+				var floatingislands:FlxSprite = new FlxSprite (-964, -643);
+				floatingislands.loadGraphic(Paths.image('SpaceWorld/BG2','sunky'));
+				add(floatingislands);
+				floatingislands.active = false;
+				floatingislands.updateHitbox();
+				floatingislands.antialiasing = true;
+				floatingislands.scrollFactor.set(0.8, 0.8);
+				FlxTween.tween(floatingislands, {x: -964, y: -543 }, 2,  {
+					ease: FlxEase.smootherStepInOut,
+					type: FlxTweenType.PINGPONG,
+					loopDelay:0.3,
+				});
 
-				var floatingisland:FlxSprite = new FlxSprite (-464, -43);
+
+				var floatingisland:FlxSprite = new FlxSprite (-1064, -643);
 				floatingisland.loadGraphic(Paths.image('SpaceWorld/BG_3','sunky'));
 				add(floatingisland);
 				floatingisland.active = false;
 				floatingisland.updateHitbox();
 				floatingisland.antialiasing = true;
 				floatingisland.scrollFactor.set(0.8, 0.8);
-				floatingisland.setGraphicSize(Std.int(floatingisland.width * 5));
+				FlxTween.tween(floatingisland, {x: -1064, y: -543 }, 2,  {
+					ease: FlxEase.smootherStepInOut,
+					type: FlxTweenType.PINGPONG,
+					loopDelay:0.3,
+				});
 
 				var sign:FlxSprite = new FlxSprite(1100, 43.15);
 				sign.loadGraphic(Paths.image("SpaceWorld/SIGN",'sunky'));
@@ -549,18 +567,17 @@ class PlayState extends MusicBeatState
 					loopDelay:0.1,
 				});
 				
-				var bgFloor:FlxSprite = new FlxSprite(101, -213);
+				var bgFloor:FlxSprite = new FlxSprite(-1001, -1013);
 				bgFloor.loadGraphic(Paths.image("SpaceWorld/bg_floor",'sunky'));
 				add(bgFloor);
 				bgFloor.active = false;
 				bgFloor.updateHitbox();
 				bgFloor.antialiasing = true;
-				bgFloor.setGraphicSize(Std.int(bgFloor.width * 2.5));
 			}
 
-		case 'madness':
+		case 'consternation':
 			{
-				defaultCamZoom = 0.5;
+				defaultCamZoom = 0.6;
 				curStage = 'SunkyEVIL';
 				var bgRED:FlxSprite = new FlxSprite(-764.95, -843.15);
 				bgRED.loadGraphic(Paths.image("SpaceWorldRED/VoidSKY",'sunky'));
@@ -740,6 +757,10 @@ class PlayState extends MusicBeatState
 				gfVersion = 'gf-pixel';
 			case 'schoolEvil':
 				gfVersion = 'gf-pixel';
+			case 'NeonCity':
+				gfVersion = 'gfNEON';
+			case 'SunkyWORLD':
+				gfVersion = 'gfHD';
 		}
 
 		if (curStage == 'limo')
@@ -904,7 +925,7 @@ class PlayState extends MusicBeatState
 				songPosBar = new FlxBar(songPosBG.x + 4, songPosBG.y + 4, LEFT_TO_RIGHT, Std.int(songPosBG.width - 8), Std.int(songPosBG.height - 8), this,
 					'songPositionBar', 0, 90000);
 				songPosBar.scrollFactor.set();
-				songPosBar.createFilledBar(FlxColor.GRAY, FlxColor.LIME);
+				songPosBar.createFilledBar(FlxColor.BLACK, FlxColor.WHITE);
 				add(songPosBar);
 				songPosBar.cameras = [camHUD];
 	
@@ -927,7 +948,7 @@ class PlayState extends MusicBeatState
 		healthBar = new FlxBar(healthBarBG.x + 4, healthBarBG.y + 4, RIGHT_TO_LEFT, Std.int(healthBarBG.width - 8), Std.int(healthBarBG.height - 8), this,
 			'health', 0, 2);
 		healthBar.scrollFactor.set();
-		healthBar.createFilledBar(0xFFFF0000, 0xFF66FF33);
+		healthBar.createFilledBar(0xFF3AC786, 0xFF3EB5ED);
 		// healthBar
 		add(healthBar);
 
@@ -1469,7 +1490,7 @@ class PlayState extends MusicBeatState
 				'songPositionBar', 0, songLength - 1000);
 				songPosBar.numDivisions = 1000;
 				songPosBar.scrollFactor.set();
-				songPosBar.createFilledBar(FlxColor.GRAY, FlxColor.LIME);
+				songPosBar.createFilledBar(FlxColor.BLACK, FlxColor.WHITE);
 				add(songPosBar);
 				songPosBar.cameras = [camHUD];
 	
@@ -3678,7 +3699,7 @@ private function keyShit():Void
 				upperBoppers.animation.play('bop', true);
 				bottomBoppers.animation.play('bop', true);
 				santa.animation.play('idle', true);
-			case 'neon':
+			case 'NeonCity':
 				neonupperBoppers.animation.play('bop', true);
 				neonbottomBoppers.animation.play('bop', true);
 

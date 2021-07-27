@@ -1,8 +1,11 @@
 bf
 bfNEON
+bfHD
 bfRED
 dad
 gf
+gfNEON
+gfHD
 spooky
 monster
 pico

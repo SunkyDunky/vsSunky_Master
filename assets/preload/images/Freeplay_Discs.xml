@@ -24,4 +24,6 @@
 	<SubTexture name="spooky0001" x="309" y="930" width="309" height="310"/>
 	<SubTexture name="sunky0000" x="618" y="930" width="309" height="310"/>
 	<SubTexture name="sunky0001" x="927" y="930" width="309" height="310"/>
+	<SubTexture name="sunky-sword0000" x="618" y="930" width="309" height="310"/>
+	<SubTexture name="sunky-sword0001" x="927" y="930" width="309" height="310"/>
 </TextureAtlas>

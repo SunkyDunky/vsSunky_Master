@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Effect_Lightning.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Shocknote_HitPURPLE0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0001" x="1920" y="0" width="0" height="0" frameX="-960" frameY="-540" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0002" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0003" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0004" x="1920" y="0" width="0" height="0" frameX="-960" frameY="-540" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0005" x="1920" y="0" width="0" height="0" frameX="-960" frameY="-540" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0006" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0007" x="1920" y="0" width="0" height="0" frameX="-960" frameY="-540" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0008" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0009" x="1920" y="2160" width="1920" height="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0010" x="1920" y="0" width="0" height="0" frameX="-960" frameY="-540" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0011" x="1920" y="0" width="0" height="0" frameX="-960" frameY="-540" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0012" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0013" x="1920" y="0" width="0" height="0" frameX="-960" frameY="-540" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0014" x="1920" y="0" width="0" height="0" frameX="-960" frameY="-540" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0015" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0016" x="1920" y="0" width="0" height="0" frameX="-960" frameY="-540" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0017" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="Shocknote_HitPURPLE0018" x="1920" y="0" width="0" height="0" frameX="-960" frameY="-540" frameWidth="1920" frameHeight="1080"/>
+</TextureAtlas>

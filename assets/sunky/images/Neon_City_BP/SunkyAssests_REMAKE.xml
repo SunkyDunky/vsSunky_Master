@@ -30,20 +30,20 @@
 	<SubTexture name="SunkyIdle_REMAKE0011" x="3029" y="0" width="380" height="787" frameX="-1" frameY="0" frameWidth="381" frameHeight="787"/>
 	<SubTexture name="SunkyIdle_REMAKE0012" x="3029" y="0" width="380" height="787" frameX="-1" frameY="0" frameWidth="381" frameHeight="787"/>
 	<SubTexture name="SunkyIdle_REMAKE0013" x="3029" y="0" width="380" height="787" frameX="-1" frameY="0" frameWidth="381" frameHeight="787"/>
-	<SubTexture name="SunkyLEFT_REMAKE0000" x="3409" y="0" width="442" height="774"/>
-	<SubTexture name="SunkyLEFT_REMAKE0001" x="3409" y="0" width="442" height="774"/>
-	<SubTexture name="SunkyLEFT_REMAKE0002" x="0" y="787" width="438" height="770" frameX="-3" frameY="-4" frameWidth="442" frameHeight="774"/>
-	<SubTexture name="SunkyLEFT_REMAKE0003" x="0" y="787" width="438" height="770" frameX="-3" frameY="-4" frameWidth="442" frameHeight="774"/>
-	<SubTexture name="SunkyLEFT_REMAKE0004" x="0" y="787" width="438" height="770" frameX="-3" frameY="-4" frameWidth="442" frameHeight="774"/>
-	<SubTexture name="SunkyLEFT_REMAKE0005" x="0" y="787" width="438" height="770" frameX="-3" frameY="-4" frameWidth="442" frameHeight="774"/>
-	<SubTexture name="SunkyLEFT_REMAKE0006" x="0" y="787" width="438" height="770" frameX="-3" frameY="-4" frameWidth="442" frameHeight="774"/>
-	<SubTexture name="SunkyLEFT_REMAKE0007" x="0" y="787" width="438" height="770" frameX="-3" frameY="-4" frameWidth="442" frameHeight="774"/>
-	<SubTexture name="SunkyLEFT_REMAKE0008" x="0" y="787" width="438" height="770" frameX="-3" frameY="-4" frameWidth="442" frameHeight="774"/>
-	<SubTexture name="SunkyLEFT_REMAKE0009" x="0" y="787" width="438" height="770" frameX="-3" frameY="-4" frameWidth="442" frameHeight="774"/>
-	<SubTexture name="SunkyLEFT_REMAKE0010" x="0" y="787" width="438" height="770" frameX="-3" frameY="-4" frameWidth="442" frameHeight="774"/>
-	<SubTexture name="SunkyLEFT_REMAKE0011" x="0" y="787" width="438" height="770" frameX="-3" frameY="-4" frameWidth="442" frameHeight="774"/>
-	<SubTexture name="SunkyLEFT_REMAKE0012" x="0" y="787" width="438" height="770" frameX="-3" frameY="-4" frameWidth="442" frameHeight="774"/>
-	<SubTexture name="SunkyLEFT_REMAKE0013" x="0" y="787" width="438" height="770" frameX="-3" frameY="-4" frameWidth="442" frameHeight="774"/>
+	<SubTexture name="SunkyLEFT_REMAKE0000" x="3409" y="0" width="442" height="775"/>
+	<SubTexture name="SunkyLEFT_REMAKE0001" x="3409" y="0" width="442" height="775"/>
+	<SubTexture name="SunkyLEFT_REMAKE0002" x="0" y="787" width="438" height="773" frameX="-3" frameY="-2" frameWidth="442" frameHeight="775"/>
+	<SubTexture name="SunkyLEFT_REMAKE0003" x="0" y="787" width="438" height="773" frameX="-3" frameY="-2" frameWidth="442" frameHeight="775"/>
+	<SubTexture name="SunkyLEFT_REMAKE0004" x="0" y="787" width="438" height="773" frameX="-3" frameY="-2" frameWidth="442" frameHeight="775"/>
+	<SubTexture name="SunkyLEFT_REMAKE0005" x="0" y="787" width="438" height="773" frameX="-3" frameY="-2" frameWidth="442" frameHeight="775"/>
+	<SubTexture name="SunkyLEFT_REMAKE0006" x="0" y="787" width="438" height="773" frameX="-3" frameY="-2" frameWidth="442" frameHeight="775"/>
+	<SubTexture name="SunkyLEFT_REMAKE0007" x="0" y="787" width="438" height="773" frameX="-3" frameY="-2" frameWidth="442" frameHeight="775"/>
+	<SubTexture name="SunkyLEFT_REMAKE0008" x="0" y="787" width="438" height="773" frameX="-3" frameY="-2" frameWidth="442" frameHeight="775"/>
+	<SubTexture name="SunkyLEFT_REMAKE0009" x="0" y="787" width="438" height="773" frameX="-3" frameY="-2" frameWidth="442" frameHeight="775"/>
+	<SubTexture name="SunkyLEFT_REMAKE0010" x="0" y="787" width="438" height="773" frameX="-3" frameY="-2" frameWidth="442" frameHeight="775"/>
+	<SubTexture name="SunkyLEFT_REMAKE0011" x="0" y="787" width="438" height="773" frameX="-3" frameY="-2" frameWidth="442" frameHeight="775"/>
+	<SubTexture name="SunkyLEFT_REMAKE0012" x="0" y="787" width="438" height="773" frameX="-3" frameY="-2" frameWidth="442" frameHeight="775"/>
+	<SubTexture name="SunkyLEFT_REMAKE0013" x="0" y="787" width="438" height="773" frameX="-3" frameY="-2" frameWidth="442" frameHeight="775"/>
 	<SubTexture name="SunkyRIGHT_REMAKE0000" x="438" y="787" width="419" height="773" frameX="-1" frameY="-4" frameWidth="420" frameHeight="777"/>
 	<SubTexture name="SunkyRIGHT_REMAKE0001" x="438" y="787" width="419" height="773" frameX="-1" frameY="-4" frameWidth="420" frameHeight="777"/>
 	<SubTexture name="SunkyRIGHT_REMAKE0002" x="857" y="787" width="420" height="777"/>
@@ -58,18 +58,18 @@
 	<SubTexture name="SunkyRIGHT_REMAKE0011" x="857" y="787" width="420" height="777"/>
 	<SubTexture name="SunkyRIGHT_REMAKE0012" x="857" y="787" width="420" height="777"/>
 	<SubTexture name="SunkyRIGHT_REMAKE0013" x="857" y="787" width="420" height="777"/>
-	<SubTexture name="SunkyUP_REMAKE0000" x="1277" y="787" width="381" height="823"/>
-	<SubTexture name="SunkyUP_REMAKE0001" x="1277" y="787" width="381" height="823"/>
-	<SubTexture name="SunkyUP_REMAKE0002" x="1658" y="787" width="378" height="814" frameX="-3" frameY="-9" frameWidth="381" frameHeight="823"/>
-	<SubTexture name="SunkyUP_REMAKE0003" x="1658" y="787" width="378" height="814" frameX="-3" frameY="-9" frameWidth="381" frameHeight="823"/>
-	<SubTexture name="SunkyUP_REMAKE0004" x="1658" y="787" width="378" height="814" frameX="-3" frameY="-9" frameWidth="381" frameHeight="823"/>
-	<SubTexture name="SunkyUP_REMAKE0005" x="1658" y="787" width="378" height="814" frameX="-3" frameY="-9" frameWidth="381" frameHeight="823"/>
-	<SubTexture name="SunkyUP_REMAKE0006" x="1658" y="787" width="378" height="814" frameX="-3" frameY="-9" frameWidth="381" frameHeight="823"/>
-	<SubTexture name="SunkyUP_REMAKE0007" x="1658" y="787" width="378" height="814" frameX="-3" frameY="-9" frameWidth="381" frameHeight="823"/>
-	<SubTexture name="SunkyUP_REMAKE0008" x="1658" y="787" width="378" height="814" frameX="-3" frameY="-9" frameWidth="381" frameHeight="823"/>
-	<SubTexture name="SunkyUP_REMAKE0009" x="1658" y="787" width="378" height="814" frameX="-3" frameY="-9" frameWidth="381" frameHeight="823"/>
-	<SubTexture name="SunkyUP_REMAKE0010" x="1658" y="787" width="378" height="814" frameX="-3" frameY="-9" frameWidth="381" frameHeight="823"/>
-	<SubTexture name="SunkyUP_REMAKE0011" x="1658" y="787" width="378" height="814" frameX="-3" frameY="-9" frameWidth="381" frameHeight="823"/>
-	<SubTexture name="SunkyUP_REMAKE0012" x="1658" y="787" width="378" height="814" frameX="-3" frameY="-9" frameWidth="381" frameHeight="823"/>
-	<SubTexture name="SunkyUP_REMAKE0013" x="1658" y="787" width="378" height="814" frameX="-3" frameY="-9" frameWidth="381" frameHeight="823"/>
+	<SubTexture name="SunkyUP_REMAKE0000" x="1277" y="787" width="367" height="793"/>
+	<SubTexture name="SunkyUP_REMAKE0001" x="1277" y="787" width="367" height="793"/>
+	<SubTexture name="SunkyUP_REMAKE0002" x="1644" y="787" width="364" height="783" frameX="-3" frameY="-10" frameWidth="367" frameHeight="793"/>
+	<SubTexture name="SunkyUP_REMAKE0003" x="1644" y="787" width="364" height="783" frameX="-3" frameY="-10" frameWidth="367" frameHeight="793"/>
+	<SubTexture name="SunkyUP_REMAKE0004" x="1644" y="787" width="364" height="783" frameX="-3" frameY="-10" frameWidth="367" frameHeight="793"/>
+	<SubTexture name="SunkyUP_REMAKE0005" x="1644" y="787" width="364" height="783" frameX="-3" frameY="-10" frameWidth="367" frameHeight="793"/>
+	<SubTexture name="SunkyUP_REMAKE0006" x="1644" y="787" width="364" height="783" frameX="-3" frameY="-10" frameWidth="367" frameHeight="793"/>
+	<SubTexture name="SunkyUP_REMAKE0007" x="1644" y="787" width="364" height="783" frameX="-3" frameY="-10" frameWidth="367" frameHeight="793"/>
+	<SubTexture name="SunkyUP_REMAKE0008" x="1644" y="787" width="364" height="783" frameX="-3" frameY="-10" frameWidth="367" frameHeight="793"/>
+	<SubTexture name="SunkyUP_REMAKE0009" x="1644" y="787" width="364" height="783" frameX="-3" frameY="-10" frameWidth="367" frameHeight="793"/>
+	<SubTexture name="SunkyUP_REMAKE0010" x="1644" y="787" width="364" height="783" frameX="-3" frameY="-10" frameWidth="367" frameHeight="793"/>
+	<SubTexture name="SunkyUP_REMAKE0011" x="1644" y="787" width="364" height="783" frameX="-3" frameY="-10" frameWidth="367" frameHeight="793"/>
+	<SubTexture name="SunkyUP_REMAKE0012" x="1644" y="787" width="364" height="783" frameX="-3" frameY="-10" frameWidth="367" frameHeight="793"/>
+	<SubTexture name="SunkyUP_REMAKE0013" x="1644" y="787" width="364" height="783" frameX="-3" frameY="-10" frameWidth="367" frameHeight="793"/>
 </TextureAtlas>

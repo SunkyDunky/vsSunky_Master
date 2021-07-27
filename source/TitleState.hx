@@ -157,7 +157,7 @@ class TitleState extends MusicBeatState
 		blackScreen = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
 		credGroup.add(blackScreen);
 
-		gradientBar = FlxGradient.createGradientFlxSprite(Math.round(FlxG.width), 512, [0x00ff0000, 0x553D0468, 0xAABF1943], 1, 90, true); 
+		gradientBar = FlxGradient.createGradientFlxSprite(Math.round(FlxG.width), 512, [0x00ff0000, 0x553D0468, 0x00E8F0], 1, 90, true); 
 		gradientBar.y = FlxG.height - gradientBar.height;
 		gradientBar.scale.y = 0;
 		gradientBar.updateHitbox();
@@ -252,7 +252,7 @@ class TitleState extends MusicBeatState
 		gradientBar.scale.y += Math.sin(Timer/10)*0.001/(_variables.fps/60);
 		gradientBar.updateHitbox();
 		gradientBar.y = FlxG.height - gradientBar.height;
-		//gradientBar = FlxGradient.createGradientFlxSprite(Math.round(FlxG.width), Math.round(gradientBar.height), [0x00ff0000, 0xaaAE59E4, 0xff19ECFF], 1, 90, true); 
+		//gradientBar = FlxGradient.createGradientFlxSprite(Math.round(FlxG.width), Math.round(gradientBar.height), [0x00ff0000, 0xaaAE59E4, 0x00E8F0], 1, 90, true); 
 
 		if (skippedIntro)
 			logoBl.angle = Math.sin(Timer/270) * 5/(_variables.fps/60);
